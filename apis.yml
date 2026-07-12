@@ -15,6 +15,12 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: VulnerabilityDisclosure
+    url: security/sinclair-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/sinclair-domain-security.yml
+  - url: https://sbgi.net/feed/
+    type: Blog
   - type: Website
     url: https://www.sbgi.net
 maintainers:
