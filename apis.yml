@@ -3,6 +3,17 @@ aid: sinclair
 url: https://github.com/api-evangelist/sinclair
 name: Sinclair
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.sbgi.net/favicon.ico
 tags:
   - Media
